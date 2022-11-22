@@ -1,7 +1,5 @@
 # Hey there :wave:
 
-<img src="https://github.com/vj5501/vj5501/blob/main/download.jpg" alt="Hello world" height=600p width=900p>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vj5501/count.svg" />
